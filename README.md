@@ -3,7 +3,7 @@ Me siento feliz por haber completado esta prueba técnica. El retraso en la mism
 
 ## Pasos 
 ### Instalación 
-- Clonar el repositorio con el comando `git clone `
+- Clonar el repositorio con el comando `git clone https://github.com/Doriandj9/entrevista-laravel.git`
 - Si el archivo .env no existe, copia el contenido del archivo .env.example y coloca los datos referentes a la base de datos.
 - MRealiza la migración de la base de datos utilizando el comando `php artisan migrate``.
 - Correr el servidor `php artisan serve`
